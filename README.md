@@ -3,7 +3,7 @@
 A simple Todo app
 #### An actual version of build is deployed on AWS:
 http://todolists.tk
-
+/////test
 ## Used Technologies:
 
 * Back-end: Spring (Boot, Data), JPA / Hibernate, PostgreSQL
